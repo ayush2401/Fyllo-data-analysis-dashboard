@@ -49,6 +49,8 @@ Here is the list of libraries and frameworks used for the project
 - [React.js](https://reactjs.org/)
 - [Ag Grid](https://reactjs.org/)
 - [Re Charts](https://reactjs.org/)
+- [Apex Charts](https://reactjs.org/)
+- [Chartjs](https://reactjs.org/)
 - [Material UI](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -73,7 +75,7 @@ To run this project, You’ll need to have
 
 1. Clone the repo
    ```sh
-   git clone https://ankitsingh_16@bitbucket.org/ankitsingh_16/fertilizer.git
+   git clone https://github.com/ayush2401/Fyllo-data-analysis-dashboard.git
    ```
 2. Install packages
    ```sh
